@@ -73,5 +73,20 @@ I love solving complex problems and using creativity to optimize processes in au
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
 
+---
+
+## 📊 GitHub Analytics
+
+<br/>
+
+<img width="390" src="https://github-readme-streak-stats-nine-alpha.vercel.app?user=Jeje-Gab&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=19C67D&ring=19C67D&fire=19C67D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=19C67D&sideLabels=19C67D&dates=888888" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jeje-Gab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=19C67D&icon_color=19C67D&text_color=FFFFFF" alt="GitHub Stats"/>
+&nbsp;
+<img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jeje-Gab&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=19C67D&text_color=FFFFFF" alt="Top Languages"/>
+
+<br/><br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19C67D&height=120&section=footer"/>
