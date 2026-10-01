@@ -1,23 +1,23 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19C67D&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19C67D&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+de+Jesus;I'm+22+years+old;I'm+from+Brazil;Computer+Engineering+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19C67D&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+de+Jesus;I'm+25+years+old;I'm+from+Brazil;Computer+Engineering+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeje-Gab&bg_color=0d1117&color=19BEC6&line=19BEC6&point=19C67D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gabriel's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeje-Gab&bg_color=0d1117&color=19BEC6&line=19BEC6&point=19C67D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center"> 
-<a href="https://instagram.com/gabrieldejesussj15" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a></a>
-<a href = "mailto:cmp.1a.gabrielsj151@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-de-jesus-226084216" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://instagram.com/gabrieldejesussj15" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:cmp.1a.gabrielsj151@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/gabriel-de-jesus-226084216" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ---
 
 ## 🇧🇷 Sobre Mim
 
-Olá! Me chamo **Gabriel de Jesus**, tenho mais de 8 anos de estudos em computação e cerca de 4 anos de experiência profissional como desenvolvedor. Atualmente atuo como **Engenheiro de Software Backend Pleno**, trabalhando principalmente com **Golang** e **TypeScript**, aplicando mensageria com **Redis** e **RabbitMQ** em arquiteturas de microsserviços.
+Olá! Me chamo **Gabriel de Jesus**, tenho mais de <!--dyn:study_years-->9<!--/dyn:study_years--> anos de estudos em computação, <!--dyn:it_years-->5<!--/dyn:it_years--> anos na área de TI e <!--dyn:dev_years-->5<!--/dyn:dev_years--> anos de experiência profissional como desenvolvedor. Atualmente atuo como **Engenheiro de Software Backend Pleno**, trabalhando principalmente com **Golang** e **TypeScript**, aplicando mensageria com **Redis** e **RabbitMQ** em arquiteturas de microsserviços.
 
-Sou formado em **Técnico em Informática** pelo Instituto Federal de Santa Catarina (IFSC) e estou cursando **Engenharia da Computação**, já com 70% do curso concluído.
+Sou formado em **Técnico em Informática** pelo Instituto Federal de Santa Catarina (IFSC) <!--dyn:course_pt-->e estou cursando **Engenharia da Computação**, já com 92% do curso concluído.<!--/dyn:course_pt-->
 
 Adoro resolver problemas complexos e usar a criatividade para otimizar processos de forma autêntica. Sou entusiasta de tecnologia e desenvolvo diversos projetos pessoais onde exploro o funcionamento de sistemas operacionais, hardware e sistemas distribuídos — sempre me desafiando a extrair o máximo de performance!
 
@@ -25,9 +25,9 @@ Adoro resolver problemas complexos e usar a criatividade para otimizar processos
 
 ## 🇺🇸 About Me
 
-Hi! My name is **Gabriel de Jesus**, I have over 8 years of experience studying computer science and around 4 years of professional experience as a developer. I currently work as a **Mid-Level Backend Software Engineer**, primarily using **Golang** and **TypeScript**, applying messaging patterns with **Redis** and **RabbitMQ** in microservices architectures.
+Hi! My name is **Gabriel de Jesus**, I have over <!--dyn:study_years-->9<!--/dyn:study_years--> years of experience studying computer science, <!--dyn:it_years-->5<!--/dyn:it_years--> years in the IT field and <!--dyn:dev_years-->5<!--/dyn:dev_years--> years of professional experience as a developer. I currently work as a **Mid-Level Backend Software Engineer**, primarily using **Golang** and **TypeScript**, applying messaging patterns with **Redis** and **RabbitMQ** in microservices architectures.
 
-I hold a **Technical Degree in Information Technology** from the Federal Institute of Santa Catarina (IFSC) and I'm currently pursuing a **Computer Engineering degree**, with 70% of the program already completed.
+I hold a **Technical Degree in Information Technology** from the Federal Institute of Santa Catarina (IFSC) <!--dyn:course_en-->and I'm currently pursuing a **Computer Engineering degree**, with 92% of the program already completed.<!--/dyn:course_en-->
 
 I love solving complex problems and using creativity to optimize processes in authentic ways. I'm a tech enthusiast who builds various personal projects to explore how operating systems, hardware, and distributed systems work — always challenging myself to push performance to its limits!
 
