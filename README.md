@@ -17,7 +17,7 @@
 
 Olá! Me chamo **Gabriel de Jesus**, tenho mais de <!--dyn:study_years-->9<!--/dyn:study_years--> anos de estudos em computação, <!--dyn:it_years-->5<!--/dyn:it_years--> anos na área de TI e <!--dyn:dev_years-->5<!--/dyn:dev_years--> anos de experiência profissional como desenvolvedor. Atualmente atuo como **Engenheiro de Software Backend Pleno**, trabalhando principalmente com **Golang** e **TypeScript**, aplicando mensageria com **Redis** e **RabbitMQ** em arquiteturas de microsserviços.
 
-Sou formado em **Técnico em Informática** pelo Instituto Federal de Santa Catarina (IFSC) <!--dyn:course_pt-->e estou cursando **Engenharia da Computação**, já com 92% do curso concluído.<!--/dyn:course_pt-->
+Sou formado em **Técnico em Informática** pelo Instituto Federal de Santa Catarina (IFSC) <!--dyn:course_pt-->e estou cursando **Engenharia da Computação**, já com 93% do curso concluído.<!--/dyn:course_pt-->
 
 Adoro resolver problemas complexos e usar a criatividade para otimizar processos de forma autêntica. Sou entusiasta de tecnologia e desenvolvo diversos projetos pessoais onde exploro o funcionamento de sistemas operacionais, hardware e sistemas distribuídos — sempre me desafiando a extrair o máximo de performance!
 
@@ -27,7 +27,7 @@ Adoro resolver problemas complexos e usar a criatividade para otimizar processos
 
 Hi! My name is **Gabriel de Jesus**, I have over <!--dyn:study_years-->9<!--/dyn:study_years--> years of experience studying computer science, <!--dyn:it_years-->5<!--/dyn:it_years--> years in the IT field and <!--dyn:dev_years-->5<!--/dyn:dev_years--> years of professional experience as a developer. I currently work as a **Mid-Level Backend Software Engineer**, primarily using **Golang** and **TypeScript**, applying messaging patterns with **Redis** and **RabbitMQ** in microservices architectures.
 
-I hold a **Technical Degree in Information Technology** from the Federal Institute of Santa Catarina (IFSC) <!--dyn:course_en-->and I'm currently pursuing a **Computer Engineering degree**, with 92% of the program already completed.<!--/dyn:course_en-->
+I hold a **Technical Degree in Information Technology** from the Federal Institute of Santa Catarina (IFSC) <!--dyn:course_en-->and I'm currently pursuing a **Computer Engineering degree**, with 93% of the program already completed.<!--/dyn:course_en-->
 
 I love solving complex problems and using creativity to optimize processes in authentic ways. I'm a tech enthusiast who builds various personal projects to explore how operating systems, hardware, and distributed systems work — always challenging myself to push performance to its limits!
 
