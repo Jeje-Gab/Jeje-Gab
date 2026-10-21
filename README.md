@@ -15,7 +15,7 @@
 
 ## 🇧🇷 Sobre Mim
 
-Olá! Me chamo **Gabriel de Jesus**, tenho mais de <!--dyn:study_years-->9<!--/dyn:study_years--> anos de estudos em computação, <!--dyn:it_years-->5<!--/dyn:it_years--> anos na área de TI e <!--dyn:dev_years-->5<!--/dyn:dev_years--> anos de experiência profissional como desenvolvedor. Atualmente atuo como **Engenheiro de Software Backend Pleno**, trabalhando principalmente com **Golang** e **TypeScript**, aplicando mensageria com **Redis** e **RabbitMQ** em arquiteturas de microsserviços.
+Olá! Me chamo **Gabriel de Jesus**, tenho mais de <!--dyn:study_years-->9<!--/dyn:study_years--> anos de estudos em computação, <!--dyn:it_years-->6<!--/dyn:it_years--> anos na área de TI e <!--dyn:dev_years-->5<!--/dyn:dev_years--> anos de experiência profissional como desenvolvedor. Atualmente atuo como **Engenheiro de Software Backend Pleno**, trabalhando principalmente com **Golang** e **TypeScript**, aplicando mensageria com **Redis** e **RabbitMQ** em arquiteturas de microsserviços.
 
 Sou formado em **Técnico em Informática** pelo Instituto Federal de Santa Catarina (IFSC) <!--dyn:course_pt-->e estou cursando **Engenharia da Computação**, já com 93% do curso concluído.<!--/dyn:course_pt-->
 
@@ -25,7 +25,7 @@ Adoro resolver problemas complexos e usar a criatividade para otimizar processos
 
 ## 🇺🇸 About Me
 
-Hi! My name is **Gabriel de Jesus**, I have over <!--dyn:study_years-->9<!--/dyn:study_years--> years of experience studying computer science, <!--dyn:it_years-->5<!--/dyn:it_years--> years in the IT field and <!--dyn:dev_years-->5<!--/dyn:dev_years--> years of professional experience as a developer. I currently work as a **Mid-Level Backend Software Engineer**, primarily using **Golang** and **TypeScript**, applying messaging patterns with **Redis** and **RabbitMQ** in microservices architectures.
+Hi! My name is **Gabriel de Jesus**, I have over <!--dyn:study_years-->9<!--/dyn:study_years--> years of experience studying computer science, <!--dyn:it_years-->6<!--/dyn:it_years--> years in the IT field and <!--dyn:dev_years-->5<!--/dyn:dev_years--> years of professional experience as a developer. I currently work as a **Mid-Level Backend Software Engineer**, primarily using **Golang** and **TypeScript**, applying messaging patterns with **Redis** and **RabbitMQ** in microservices architectures.
 
 I hold a **Technical Degree in Information Technology** from the Federal Institute of Santa Catarina (IFSC) <!--dyn:course_en-->and I'm currently pursuing a **Computer Engineering degree**, with 93% of the program already completed.<!--/dyn:course_en-->
 
